@@ -15,3 +15,20 @@ You can see funcions as variables, assign value, assign to array. Just operate l
 ## Expression
 
 A block of code results a value.
+
+example:
+
+```
+3
+"T"
+```
+
+## function expression
+
+example:
+
+```
+var a = function(sth) {
+  console.log(sth);
+}
+```
