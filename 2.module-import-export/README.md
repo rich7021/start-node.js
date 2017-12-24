@@ -32,3 +32,14 @@ var a = function(sth) {
   console.log(sth);
 }
 ```
+
+## Others
+
+* on the fly
+  * original
+    * flying
+    * on the flight
+    * in a hurry
+  * in computer science field
+    * Describe something is happened dynamically, instead of declaration previously.
+      * Like literal constant
