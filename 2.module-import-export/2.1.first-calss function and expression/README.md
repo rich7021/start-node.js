@@ -1,9 +1,3 @@
-# What is **Modules**
-
-Definition: A reusable block of code whose existence does not accidentally impact other code.
-
-JavaScript does not have this concept before ES6. Node.js supports modules from 8.5.0. Before that, node.js has workaround to make your code as module-like.
-
 # first-class function and function expression
 
 ## First-class function
