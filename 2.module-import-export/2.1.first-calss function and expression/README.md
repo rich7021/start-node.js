@@ -1,31 +1,35 @@
-# Modules, import and Export
-
-## Modules
+# What is **Modules**
 
 Definition: A reusable block of code whose existence does not accidentally impact other code.
 
 JavaScript does not have this concept before ES6. Node.js supports modules from 8.5.0. Before that, node.js has workaround to make your code as module-like.
 
-## first-class function and function expression
+# first-class function and function expression
 
-### First-class function
+## First-class function
 
-You can see funcions as variables, assign value, assign to array. Just operate like other types.
+You can see funcions as variables. Just operate like other types. For example:
 
-### Expression
+```
+var a = function() {
+  ...
+}
+var b = funciont(fn) {
+  fn()
+}
+b(a); // pass function as variable
+```
 
-A block of code results a value.
+## Expression and function expression
 
-example:
+A block of code results a value. Example:
 
 ```
 3
 "T"
 ```
 
-### function expression
-
-example:
+So, we can declare function in expression way. For example:
 
 ```
 var a = function(sth) {
@@ -33,7 +37,7 @@ var a = function(sth) {
 }
 ```
 
-## Others
+# Others
 
 * on the fly
   * Original: 1. flying, 2. on the flight, 3. in a hurry
