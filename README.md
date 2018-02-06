@@ -100,4 +100,4 @@ If the code contains multiple methods with same name as the handler name:
 1. Select the one with the largest number of parameters.
 2. Select the one with Context as the last parameter.
 
-<font color="red">#### Create a Lambda Function Authored in JAVA</font>
+#### <font color="red">Create a Lambda Function Authored in JAVA</font>
